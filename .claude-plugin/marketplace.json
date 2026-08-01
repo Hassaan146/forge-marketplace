@@ -4,6 +4,7 @@
     "name": "Muhammad Hassaan",
     "url": "https://github.com/Hassaan146"
   },
+  "description": "Forge Mentor and related decide-then-code tooling for Claude Code.",
   "plugins": [
     {
       "name": "forge",
