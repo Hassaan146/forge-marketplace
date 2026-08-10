@@ -13,7 +13,7 @@
         "url": "https://github.com/Hassaan146/forge-mentor.git"
       },
       "description": "Forge Mentor — decide-then-code. Teaches every load-bearing decision, records your choice, and blocks code from moving past a decision you have not made yet.",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "author": {
         "name": "Muhammad Hassaan"
       }
