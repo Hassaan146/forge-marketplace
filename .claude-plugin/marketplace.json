@@ -13,10 +13,24 @@
         "url": "https://github.com/Hassaan146/forge-mentor.git"
       },
       "description": "Forge Mentor — decide-then-code. Teaches every load-bearing decision, records your choice, and blocks code from moving past a decision you have not made yet.",
-      "version": "1.15.0",
+      "version": "1.16.0",
       "author": {
         "name": "Muhammad Hassaan"
       }
+    },
+    {
+      "name": "ponytail",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/DietrichGebert/ponytail.git"
+      },
+      "description": "Companion to Forge, by Dietrich Gebert (MIT). Gets an agent to write the least code that works: does this need writing, does the project already do it, does the standard library do it. Forge loads it at the build and review steps when it is installed, and runs without it when it is not.",
+      "author": {
+        "name": "Dietrich Gebert",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "homepage": "https://github.com/DietrichGebert/ponytail",
+      "license": "MIT"
     }
   ]
 }
